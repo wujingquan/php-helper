@@ -1,0 +1,16 @@
+{
+    "name": "wujingquan/helper",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wujingquan\\Helper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wujingquan",
+            "email": "i@wujingquan.com"
+        }
+    ],
+    "require": {}
+}
